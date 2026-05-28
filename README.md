@@ -31,3 +31,20 @@ Database
 MongoDB
 Mongoose
 
+TO RUN THE PROJECT
+Run backend
+    cd backend
+    npm install
+    npm start
+
+Run frontend
+Open new terminal and
+    cd frontend
+    npm install
+    npm start
+
+Run Admin pannel
+Open new terminal and
+    cd admin
+    npm install
+    npm run dev
